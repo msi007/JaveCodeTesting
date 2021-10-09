@@ -1,4 +1,4 @@
-package democons;
+//package democons;
 
 class contstruncton001 {
 	int number;
