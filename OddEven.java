@@ -1,4 +1,4 @@
-package ODDEven;
+//package ODDEven;
 import java.util.*;
 import java.util.Scanner;
 
